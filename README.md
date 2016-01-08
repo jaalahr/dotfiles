@@ -1,6 +1,6 @@
-# \\[._.]/ - Hi, I'm the OSX bot.
+# About
 
-I will update your OSX machine with better system defaults, preferences, software configuration and even auto-install some handy development tools and apps that my developer friends find helpful.
+This will update your OSX machine with better system defaults, preferences, software configuration and even auto-install some handy development tools and apps that my developer friends find helpful.
 
 You don't need to install or configure anything upfront! This works with a brand-new machine from the factory as well as an existing machine that you've been working with for years.
 
@@ -8,9 +8,9 @@ You don't need to install or configure anything upfront! This works with a brand
 
 Don't you hate getting a new laptop or joining a new team and then spending a whole day setting up your system preferences and tools? Me too. That's why we automate; we did it once and we don't want to do have to do it again.
 
-\\[^_^]/ - This started as Adam Eivy's OSX shell configuration dotfiles but has grown to a mutil-developer platform for machine configuration (https://github.com/atomantic/dotfiles).
+This started as Adam Eivy's OSX shell configuration dotfiles but has grown to a mutil-developer platform for machine configuration (https://github.com/atomantic/dotfiles).
 
-When I finish with your machine, you will be able to look at your command-line in full-screen mode like this (running iTerm):
+When this bot finishes with your machine, you will be able to look at your command-line in full-screen mode like this (running iTerm):
 
 ![iTerm Screenshot](https://raw.githubusercontent.com/atomantic/dotfiles/master/img/dotfiles.png)
 
