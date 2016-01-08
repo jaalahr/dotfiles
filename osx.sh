@@ -162,17 +162,44 @@ require_cask google-drive
 # ------------------------------------
 require_cask slack
 
+# TODO: [Add to personal]
+# require_cask private-internet-access
+
+# ------------------------------------
+# code editor
+# ------------------------------------
+require_cask sublime-text
+# require_cask coda
+
+# TODO: [Add to personal]
+# require_cask phpstorm7
+
 # ------------------------------------
 # tools
 # ------------------------------------
 require_cask diffmerge
 require_cask iterm2
 require_cask sourcetree
+require_cask filezilla
+require_cask spotify
+require_cask mamp
+require_cask skype
+
 
 # TODO: [Add to personal]
+## X server
 # require_cask xquartz
+
+## Thoroughly uninstall unwanted apps
+# require_cask appcleaner
+
+## A hackable text editor
 # require_cask atom
+
+## Encryption
 # require_cask gpgtools
+
+## Window re-sizer tool
 # require_cask sizeup
 
 # ------------------------------------
